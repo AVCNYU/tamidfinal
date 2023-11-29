@@ -22,7 +22,7 @@ const moviereview = () => {
 
     return (
         <main className="main-container">
-            <h1>Todo Page</h1>
+            <h1>Movie Review</h1>
             <div className="todo-list">
                 {
                     todoArr.map(
